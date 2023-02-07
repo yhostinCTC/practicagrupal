@@ -13,3 +13,6 @@ if (person == null || person == "") {
 } else {
   text = "Hola " + person + "!Como estas hoy?";
 }
+
+document.getElementsByClassName("container-1")[0].innerHTML +=
+'<p>Párrafo de texto</p>'
