@@ -1,0 +1,14 @@
+.card_title{
+ color: rgb(46, 46, 100);
+ font-size:12px;
+}
+
+.card_image{
+font-weight: 200px;
+line-height: 150px;
+}
+
+.card_parrafo{
+background-color: rgb(255, 255, 255);
+margin: 5px;
+}
