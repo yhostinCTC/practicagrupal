@@ -1,0 +1,33 @@
+.card_title{
+ color: rgb(46, 46, 100);
+ font-size:12px;
+}
+
+.card_image{
+font-weight: 200px;
+line-height: 150px;
+}
+
+.card_parrafo{
+background-color: rgb(255, 255, 255);
+margin: 5px;
+}
+
+.container-1{
+    background-color: blue;
+    border-width: 5px;
+    border-color: red;
+
+}
+.container-2{
+    background-color: yellow;
+    border-width: 5px;
+    border-color: green;
+
+}
+.container-3{
+    background-color: green;
+    border-width: 5px;
+    border-color: black;
+
+}
