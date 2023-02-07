@@ -1,0 +1,57 @@
+1. HTML === elena zoraide
+//elena
+Crear tres contenedores con un texto cualquiera
+cada contenedor pertenecera a una clase 
+1. container-1
+2. container-2
+3. container-3
+
+//zoraide
+Crear un contenedor que contenga un titulo, una imagen y un parrafo
+titulo tiene que tener la clase  card_title
+imagen tiene que tener la clase card_image
+parrafo tiene que tener la clase card_parrafo
+
+// CONTINUARA ...
+
+
+2. CSS === valeria yerusha
+
+//valeria
+Crear estilos:
+1. para la clase container-1:
+    fondo de color azul
+    borde de color rojo de 5px de grosor
+1. para la clase container-2:
+    fondo de color amarillo
+    borde de color verde de 5px de grosor
+1. para la clase container-3:
+    fondo de color verde
+    borde de color negro de 5px de grosor
+
+// yerusha
+Crear estilos:
+
+1. para la clase card_title:
+    color de texto azul y tamaño 12px
+2. para la clase card_image:
+    un ancho de 200px y un alto de 150px
+3. para la clase card_parrafo:
+    un color de fondo blanco y un margin de 5px
+
+
+
+3. JS == fiorella mildret tefi
+
+//fiorella
+    1. capturar el elemento por su clase:
+        card_parrafo
+        cambiar su innerHTML por el siguiente text "Este texto ha sido cambido por mi"
+
+
+//mildret
+    1. vas a crear tres alerts usando un for
+
+//tefi, mildret fiorella
+    2. crear un parrafo y añadirlo al elemento que 
+    tiene el identificador de clase "container-1"
