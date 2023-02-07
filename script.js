@@ -1,4 +1,4 @@
-document.getElementsByClassName("card_parrafo").innerHTML = "Este texto ha sido cambido por mi"
+document.getElementsByClassName("card_parrafo")[0].innerHTML += "Este texto ha sido cambido por mi"
 if (confirm("Preciona el boton!")) {
     txt = "Tu precionastes OK!";
   } else {
