@@ -1,3 +1,4 @@
+document.getElementsByClassName("card_parrafo").innerHTML = "Este texto ha sido cambido por mi"
 if (confirm("Preciona el boton!")) {
     txt = "Tu precionastes OK!";
   } else {
